@@ -21,7 +21,7 @@ import {
 } from "../autopilot_plugin/index.ts";
 
 // Import types
-import {
+import type {
   AlertOptions,
   ClickOptions,
   ScrollOptions,
